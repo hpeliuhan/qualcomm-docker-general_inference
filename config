@@ -1,0 +1,6 @@
+[camera_info]
+rtsp_link=rtsp://10.106.99.99:8554/stream1
+
+[model]
+inference_model=resnet50
+
